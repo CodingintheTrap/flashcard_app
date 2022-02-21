@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    margin-top: 5px;
+    padding: 10px;
+}
+.term{
+    border: solid 5px   black;
+    background-color: aquamarine;
+    border-radius: 15px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.definition{
+    border: solid 5px   black;
+    background-color: violet;
+    border-radius: 15px;
+    text-align: center;
+        width: 45%;
+    margin: auto;
+    margin-bottom: 50px;
+    padding: 10px;
+    display: none;
+}
+
+.button {
+    text-align: center;
+
+}
+
+button{
+    color: white;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+button:hover {
+    transform: scale 1.1 ;
+}
